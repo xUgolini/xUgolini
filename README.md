@@ -20,12 +20,10 @@
 
 ## GitHUB's Status ⚡:
 
-![Fabiano GitHub status](https://github-readme-stats.vercel.app/api?username=xUgolini&show_icons=true&theme=radical)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xUgolini&layout=compact&theme=radical)](https://github.com/xUgolini/github-readme-stats)
+![Fabiano GitHub status](https://github-readme-stats.vercel.app/api?username=xUgolini&show_icons=true&theme=radical) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xUgolini&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Contato:
+### Contatos:
 
 ✉️ fabianougolini@hotmail.com
 
